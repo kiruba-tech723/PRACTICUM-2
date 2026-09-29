@@ -1,2 +1,2 @@
 # PRACTICUM-2
-A Basic webpage with multimedia and elements
+A Basic webpage with multimedia elements and layouts
