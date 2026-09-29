@@ -1,2 +1,2 @@
 # PRACTICUM-2
-A Basic comment
+A Basic webpage with multimedia and elements
